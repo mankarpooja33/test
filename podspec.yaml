@@ -26,15 +26,33 @@ preprocessors:
   out_dir: /dist/
 
 deployments:
-  default:
+  google3:
     destination: local
-    out_dir: my-codelab-launch/
-  gcs:
-    destination: gcs
-    bucket: mybucket.example.com
-  s3:
-    destination: s3
-    bucket: mybucket.example.com
-  sandbox:
-    destination: gcs
-    bucket: sandbox.growlaunches.com
+    keep_control_dir: no
+    control_dir: ./googledata/services/g6/sites/mankarp/growtest/
+    out_dir: ./googledata/html/
+  review:
+    destination: jetway
+    server: googwebreview.appspot.com
+    project: mankarp/growtest
+    name: chromecast
+  localize:
+    destination: jetway
+    server: googwebreview.appspot.com
+    project: mankarp/growtest
+    name: chromecast-localize
+  review-uq:
+    destination: jetway
+    server: googwebreview.appspot.com
+    project: mankarp/growtest
+    name: chromecast-uq
+  review-us:
+    destination: jetway
+    server: googwebreview.appspot.com
+    project: mankarp/growtest
+    name: chromecast-us
+  review-2:
+    destination: jetway
+    server: googwebreview.appspot.com
+    project: mankarp/growtest
+    name: chromecast-2
