@@ -1,0 +1,161 @@
+# Dutch translations for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-10-29 12:46+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: /content/pages/about.md:0
+msgid "About"
+msgstr "Over"
+
+#: /content/pages/about.md:0
+msgid "About us"
+msgstr "Over ons"
+
+#: /content/pages/archive.md:0 /views/archive.html:4
+msgid "Archive"
+msgstr "Archief"
+
+#: /views/posts.html:23
+msgid "Back:"
+msgstr "Back:"
+
+#: /content/pages/team.md:0
+msgid "CEO"
+msgstr "CEO"
+
+#: /content/pages/team.md:0
+msgid "CTO"
+msgstr "CTO"
+
+#: /content/pages/team.md:0
+msgid "Caelius Ruh"
+msgstr "Caelius Ruh"
+
+#: /content/pages/team.md:0
+msgid "Creative Director"
+msgstr "Creatief directeur"
+
+#: /content/pages/team.md:0
+msgid "Creative Producer"
+msgstr "Creative Producer"
+
+#: /content/posts/20140101.md:0
+msgid "Diam a ac sed suscipit netus."
+msgstr "Diam een ​​ac sed suscipit netus."
+
+#: /content/pages/team.md:0
+msgid "Diro colore exemploque quaeque non Quo classis amatis terga texitur."
+msgstr "Diro colore exemploque quaeque niet Quo classis Amatis TERGA texitur."
+
+#: /content/posts/20140204.md:0
+msgid "Dolor aliquam elit. Facilisi placeat quis sit ipsum vestibulum."
+msgstr "Dolor aliquam elit. Facilisi placeat quis zitten Ipsum vestibulum."
+
+#: /podspec.yaml:0
+msgid "Grow SDK Codelab"
+msgstr "Groeien SDK Codelab"
+
+#: /content/pages/index.md:0
+msgid "Home"
+msgstr "Thuis"
+
+#: /content/posts/20130725.md:0
+msgid "Incubuitque petiti divus retinacula aetherias et quoque"
+msgstr "Incubuitque Petiti Divus retinaculum aetherias et quoque"
+
+#: /content/pages/team.md:0
+msgid "Johnny Toma"
+msgstr "Johnny Toma"
+
+#: /views/index.html:12
+msgid "Latest updates"
+msgstr "Laatste updates"
+
+#: /content/pages/team.md:0
+msgid "Matthias Freddie"
+msgstr "Matthias Freddie"
+
+#: /content/pages/team.md:0
+msgid ""
+"Mei quam habebis latratibus fero Odrysius, et sidera animantis pavens corde "
+"vires pascua."
+msgstr ""
+"Mei quam habebis latratibus fero Odrysius, et Sidera animantis pavens corde "
+"vires Pascua."
+
+#: /content/pages/team.md:0
+msgid "Nahor Jaylen"
+msgstr "Nahor Jaylen"
+
+#: /views/posts.html:17
+msgid "Next:"
+msgstr "Volgende:"
+
+#: /views/posts.html:7
+#, python-format
+msgid "Posted %(date)s"
+msgstr "Gepost %(date)s"
+
+#: /content/pages/team.md:0
+msgid "Riku Ambroos"
+msgstr "Riku Ambroos"
+
+#: /content/pages/team.md:0
+msgid "Semesarumque rata, esse illi resoluto fronte, in, contigit positi."
+msgstr "Semesarumque rata, esse illi resoluto fronte, in, contigit positi."
+
+#: /content/pages/team.md:0
+msgid "Tandemque obscurum capit est ultro caesique manuque sensurum."
+msgstr "Tandemque obscurum capit est Ultro caesique manuque sensurum."
+
+#: /content/pages/team.md:0
+msgid "Team"
+msgstr "Team"
+
+#: /content/pages/team.md:0
+msgid "Technical Lead"
+msgstr "Technical Lead"
+
+#: /content/pages/team.md:0
+msgid "The Team"
+msgstr "Het team"
+
+#: /podspec.yaml:0
+msgid ""
+"The codelab pod for the Grow SDK. Used in conjunction with the codelab at "
+"http://growsdk.org."
+msgstr ""
+"De codelab pod voor de Grow SDK. Gebruikt in combinatie met de codelab bij "
+"http://growsdk.org."
+
+#: /content/pages/team.md:0
+msgid "Utinam adimuntque obscenas perpetuo, aquaticus pereunt simul inde."
+msgstr "Utinam adimuntque obscenas perpetuo, aquaticus pereunt simul inde."
+
+#: /views/index.html:23
+msgid "View the archive"
+msgstr "Bekijk het archief"
+
+#: /content/pages/index.md:0
+msgid "Welcome"
+msgstr "Welkom"
+
+#: /content/posts/20130927.md:0
+msgid "Wisi nec lacus velit adipiscing lectus."
+msgstr "Wisi nec Lacus velit adipiscing lectus."
+
